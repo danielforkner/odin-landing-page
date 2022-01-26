@@ -4,6 +4,10 @@
     --marginTopBottom: 50px;
 }
 
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
 body {
     display: flex;
     flex-direction: column;
@@ -111,6 +115,7 @@ body {
 
 .cardTxt {
     color: #1F2937;
+    text-align: center;
 }
 
 /* Testimonial Section */
